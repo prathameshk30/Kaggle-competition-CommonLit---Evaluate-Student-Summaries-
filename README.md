@@ -1,1 +1,1 @@
-# Kaggle-competition-CommonLit---Evaluate-Student-Summaries-
+# Kaggle-competition-CommonLit---Evaluate-Student-Summaries
